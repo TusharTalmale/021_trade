@@ -5,8 +5,11 @@ This project is a Flutter application developed as an assignment to replicate a 
 ### Final Application UI:
 ![alt text](image.png)
 
-#### basic working 
-<video controls src="20250623-1741-31.8922872.mp4" title="Title"></video>
+#### Basic working video watch in youtube
+
+[![Watch the video](https://img.youtube.com/vi/xvheJGBHKno/0.jpg)](https://youtu.be/xvheJGBHKno)
+
+
 
 ### Target Design:
 ![alt text](<Open order assignment - 021 Trade (1).png>)
